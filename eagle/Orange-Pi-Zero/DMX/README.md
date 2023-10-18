@@ -24,7 +24,7 @@ This board provides 2 independent DMX in/out Lines for use with OrangePi Zero.
 	* 1 -> B -> XLR Pin 2
 	* 2 -> A -> XLR Pin 3
 	* 3 -> GND -> XLR Pin 1
-* P3 is for Status LED (this is the Pin from the OrangePi directly! Think about Resistor!)
+* P3 is for Status LED (this is the Pin from the OrangePi directly! Think about Resistor! OrangePi uses 3v3 GPIO)
 	* 1 -> 5V
 	* 2 -> LED Signal
 	* 3 -> GND
